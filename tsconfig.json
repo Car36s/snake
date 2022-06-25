@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "target": "esnext",
+      "module": "commonjs",
+      "jsx": "react-jsx",
+      "types": ["react/next", "react-dom/next"],
+      "isolatedModules": true,
+    },
+
+}
